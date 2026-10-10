@@ -1,0 +1,17 @@
+
+# Archivos temporales de UCanAccess / HSQLDB (se generan al conectar)
+false*
+*.lck
+*.log
+*.script
+*.properties.lck
+BDLineasFarma.laccdb
+
+# Archivos de configuración privada de NetBeans
+/build/
+nbproject/private/
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+*.swp
